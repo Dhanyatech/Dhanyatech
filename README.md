@@ -1,4 +1,7 @@
-## Hi there 👋
+ Hi there 👋
+ Learning Cyberssecurity,Networking & python
+ Exploring Linux,Github and Ethical hacking
+ Intrested in Hackathons and Real world projects
 
 <!--
 **Dhanyatech/Dhanyatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
